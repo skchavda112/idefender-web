@@ -1,0 +1,23 @@
+# Windows junk
+Thumbs.db
+
+# Logs
+*.log
+
+# Archives
+*.zip
+
+# Media / large files
+*.mp4
+*.mov
+*.avi
+*.psd
+
+# Build / cache
+node_modules/
+dist/
+build/
+
+# Heavy asset folders (adjust if needed)
+videos/
+uploads/
